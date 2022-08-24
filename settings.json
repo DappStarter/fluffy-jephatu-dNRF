@@ -1,0 +1,9 @@
+{
+    "name": "6chao",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true
+    }
+}
